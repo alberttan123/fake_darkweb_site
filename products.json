@@ -1,0 +1,206 @@
+[
+  {
+    "productTitle": "10-Pack VIPs",
+    "productPrice": 0.0056,
+    "productType": "Personal Identifiers",
+    "productDescription": "Curated bundle of VIP contact/identity records.\nIncludes:\n- names\n- emails\n- phone numbers\nNotes: demo dataset for UI testing."
+  },
+  {
+    "productTitle": "S.E.A Secrets - Ultimate",
+    "productPrice": 0.021,
+    "productType": "Government Data",
+    "productDescription": "A large archive categorized by region.\nIntended for mock marketplace UI layouts.\nContains placeholder text only."
+  },
+  {
+    "productTitle": "Corporate Vault Sampler",
+    "productPrice": 0.012,
+    "productType": "Corporate Secrets",
+    "productDescription": "Sample corporate documents bundle (sanitized placeholders).\nUse to test search/sort/pagination."
+  },
+  {
+    "productTitle": "Ledger Fragments",
+    "productPrice": 0.0084,
+    "productType": "Financial Records",
+    "productDescription": "Mock financial record tiles for price filtering and sorting."
+  },
+  {
+    "productTitle": "VIP Identity Bundle v2",
+    "productPrice": 0.0062,
+    "productType": "Personal Identifiers",
+    "productDescription": "Curated set of high-profile identity records.\nIncludes names, emails, phone numbers.\nDataset is structured for UI testing purposes."
+  },
+  {
+    "productTitle": "SEA Citizen Archive",
+    "productPrice": 0.0148,
+    "productType": "Government Data",
+    "productDescription": "Regional government-style dataset organized by country and year.\nOptimized for filtering and pagination demos."
+  },
+  {
+    "productTitle": "Corporate Email Vault",
+    "productPrice": 0.0091,
+    "productType": "Corporate Secrets",
+    "productDescription": "Large set of corporate email metadata.\nDesigned to test alphabetical and price sorting."
+  },
+  {
+    "productTitle": "Financial Ledger Extract",
+    "productPrice": 0.0185,
+    "productType": "Financial Records",
+    "productDescription": "Mock financial ledger records.\nContains transaction-style entries and account references."
+  },
+  {
+    "productTitle": "High Net-Worth Contacts",
+    "productPrice": 0.0113,
+    "productType": "Personal Identifiers",
+    "productDescription": "Contact dataset themed around high-value individuals.\nUseful for demonstrating category filtering."
+  },
+  {
+    "productTitle": "Government Payroll Snapshot",
+    "productPrice": 0.0207,
+    "productType": "Government Data",
+    "productDescription": "Simulated payroll-style records.\nContains salary ranges and department identifiers."
+  },
+  {
+    "productTitle": "Internal HR Documents",
+    "productPrice": 0.0079,
+    "productType": "Corporate Secrets",
+    "productDescription": "Mock internal HR files.\nIncludes hiring dates, roles, and department mappings."
+  },
+  {
+    "productTitle": "Banking Account Sampler",
+    "productPrice": 0.0154,
+    "productType": "Financial Records",
+    "productDescription": "Sample banking-style account data.\nUsed for price-based filtering tests."
+  },
+  {
+    "productTitle": "Leaked Subscriber List",
+    "productPrice": 0.0046,
+    "productType": "Personal Identifiers",
+    "productDescription": "Subscriber-style dataset.\nOptimized for search and pagination behavior."
+  },
+  {
+    "productTitle": "National ID Registry Mock",
+    "productPrice": 0.0221,
+    "productType": "Government Data",
+    "productDescription": "Large registry-style dataset.\nIntended for UI stress testing with many records."
+  },
+  {
+    "productTitle": "Boardroom Notes Archive",
+    "productPrice": 0.0136,
+    "productType": "Corporate Secrets",
+    "productDescription": "Meeting-note style records.\nFocuses on descriptive text length handling."
+  },
+  {
+    "productTitle": "Credit Transaction Logs",
+    "productPrice": 0.0199,
+    "productType": "Financial Records",
+    "productDescription": "Mock credit transaction logs.\nDemonstrates high-price sorting scenarios."
+  },
+  {
+    "productTitle": "Influencer Contact Pack",
+    "productPrice": 0.0058,
+    "productType": "Personal Identifiers",
+    "productDescription": "Themed dataset of influencer-style contacts.\nGood for alphabetical sorting demos."
+  },
+  {
+    "productTitle": "Border Control Dataset",
+    "productPrice": 0.0243,
+    "productType": "Government Data",
+    "productDescription": "Simulated travel and border records.\nContains structured entries by checkpoint."
+  },
+  {
+    "productTitle": "Product Roadmap Leaks",
+    "productPrice": 0.0104,
+    "productType": "Corporate Secrets",
+    "productDescription": "Mock internal roadmap documents.\nIncludes timelines and feature codenames."
+  },
+  {
+    "productTitle": "Tax Filing Extract",
+    "productPrice": 0.0172,
+    "productType": "Financial Records",
+    "productDescription": "Tax-style data entries.\nFormatted to test long descriptions in modal view."
+  },
+  {
+    "productTitle": "Customer Loyalty Database",
+    "productPrice": 0.0069,
+    "productType": "Personal Identifiers",
+    "productDescription": "Retail loyalty-style dataset.\nUseful for combining search + type filtering."
+  },
+  {
+    "productTitle": "Defense Procurement List",
+    "productPrice": 0.0286,
+    "productType": "Government Data",
+    "productDescription": "Procurement-style records.\nHigher price tier for pagination testing."
+  },
+  {
+    "productTitle": "Private M&A Documents",
+    "productPrice": 0.0215,
+    "productType": "Corporate Secrets",
+    "productDescription": "Mock merger and acquisition files.\nHigh-value dataset for premium UI feel."
+  },
+  {
+    "productTitle": "Investment Portfolio Dump",
+    "productPrice": 0.0161,
+    "productType": "Financial Records",
+    "productDescription": "Portfolio-style financial records.\nContains asset groupings and summaries."
+  },
+  {
+    "productTitle": "Marketing Lead List",
+    "productPrice": 0.0042,
+    "productType": "Personal Identifiers",
+    "productDescription": "Lead-generation themed dataset.\nGood for testing lower price range filters."
+  },
+  {
+    "productTitle": "Census Data Snapshot",
+    "productPrice": 0.0234,
+    "productType": "Government Data",
+    "productDescription": "Census-style structured records.\nLarge dataset simulation."
+  },
+  {
+    "productTitle": "Source Code Metadata Pack",
+    "productPrice": 0.0128,
+    "productType": "Corporate Secrets",
+    "productDescription": "Repository metadata and commit-style records.\nText-heavy descriptions included."
+  },
+  {
+    "productTitle": "Payment Gateway Logs",
+    "productPrice": 0.0189,
+    "productType": "Financial Records",
+    "productDescription": "Gateway transaction-style logs.\nIdeal for demonstrating sort stability."
+  },
+  {
+    "productTitle": "Forum User Dump",
+    "productPrice": 0.0039,
+    "productType": "Personal Identifiers",
+    "productDescription": "Forum-style user data.\nLightweight dataset for pagination edges."
+  },
+  {
+    "productTitle": "Law Enforcement Records",
+    "productPrice": 0.0267,
+    "productType": "Government Data",
+    "productDescription": "Incident-style government records.\nHigh text density for modal viewing."
+  },
+  {
+    "productTitle": "Supplier Contract Files",
+    "productPrice": 0.0117,
+    "productType": "Corporate Secrets",
+    "productDescription": "Supplier and contract themed records.\nGood mid-range pricing example."
+  },
+  {
+    "productTitle": "Loan Application Archive",
+    "productPrice": 0.0143,
+    "productType": "Financial Records",
+    "productDescription": "Loan application-style entries.\nWorks well with search filters."
+  },
+  {
+    "productTitle": "Newsletter Subscriber Base",
+    "productPrice": 0.0049,
+    "productType": "Personal Identifiers",
+    "productDescription": "Email newsletter subscriber dataset.\nLow-cost product example."
+  },
+  {
+    "productTitle": "Infrastructure Planning Docs",
+    "productPrice": 0.0279,
+    "productType": "Government Data",
+    "productDescription": "Infrastructure and planning themed documents.\nPremium-tier dataset."
+  }
+]
