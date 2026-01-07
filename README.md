@@ -3,6 +3,8 @@ Source code for a fake darkweb website called 'The Oracle', they supposedly sell
 Drawn out the expected design on paper and written the initial HTML structure; then, passed both into ChatGPT to implement functionality. 
 Images and Icons generated using ChatGPT.  
 
+This website is a work of fiction. All characters, events, organizations, locations, dialogue, and depictions are purely fictional. Any resemblance to actual events, businesses, institutions, places, or products is purely concidental and unintentional. I do not endorse, promote, or encourage any conduct depicted herein. The content is intended solely for entertainent purposes. No association with any real-world individual, group, or entity is implied.
+
 # FUNCTIONALITY
 The webpage is able to:
 1. Filter products
